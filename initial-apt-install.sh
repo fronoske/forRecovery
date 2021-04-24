@@ -9,7 +9,7 @@ sudo apt --purge -y remove vim-common vim-tiny
 sudo apt install -y vim
 
 # misc
-sudo apt install build-essential sqlite3 curl autoconf automake libtool bison libssl-dev libreadline-dev zlib1g-dev libidn11-dev  pkg-config git
+sudo apt install b-y uild-essential sqlite3 curl autoconf automake libtool bison libssl-dev libreadline-dev zlib1g-dev libidn11-dev  pkg-config git
 
 # Japanese manual
 sudo apt install -y manpages-ja manpages-ja-dev
