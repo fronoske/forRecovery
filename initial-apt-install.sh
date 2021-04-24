@@ -1,5 +1,5 @@
-sudo apt update
-sudo apt upgrade
+sudo apt update -y
+sudo apt upgrade -y
 
 # essential
 sudo apt install -y zip unzip keychain tmux
@@ -13,3 +13,5 @@ sudo apt install build-essential sqlite3 curl autoconf automake libtool bison li
 
 # Japanese manual
 sudo apt install -y manpages-ja manpages-ja-dev
+# Autoremove
+suo apt autoremove -y
