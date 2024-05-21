@@ -14,4 +14,4 @@ sudo apt install -y build-essential sqlite3 curl autoconf automake libtool bison
 # Japanese manual
 sudo apt install -y manpages-ja manpages-ja-dev
 # Autoremove
-suo apt autoremove -y
+sudo apt autoremove -y
